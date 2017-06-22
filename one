@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<head>
+<title>
+first html project
+</title>
+</head>
+<body>
+<h1>Example</h1>
+<p>the front end of a website can be built using html.
+And this is my simple first html project.</p>
+<p>Before starting a project, it is better to try something simple</p>
+</body>
+</html>
